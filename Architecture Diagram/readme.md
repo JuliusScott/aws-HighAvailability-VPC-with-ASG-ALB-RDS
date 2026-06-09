@@ -1,6 +1,6 @@
 # Architecture Diagram
 
-This folder contains the architecture diagrams used throughout the AWS CLI Custom VPC with Application Load Balancer, Auto Scaling Group, and Amazon RDS project.
+This folder contains the architecture diagrams used throughout the AWS Console to create a Custom VPC with Application Load Balancer, Auto Scaling Group, and Amazon RDS project.
 
 The diagrams provide a visual representation of the network architecture, including:
 
